@@ -61,7 +61,7 @@ public class ModuleIntegrationTest extends TestVerticle {
   @Test
   public void testSomethingElse() {
     // Whatever
-    testComplete();
+    //testComplete();
   }
 
 
